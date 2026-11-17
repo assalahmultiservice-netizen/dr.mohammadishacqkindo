@@ -1144,11 +1144,11 @@ textarea {
 }
 img{
     height: 270px;
-    width: 240px;
+    width: 270px;
     place-items: center;
 }
 .photo{
-    height: 1200px;
+    height: auto;
     width: auto;
 }
 photos-div{
